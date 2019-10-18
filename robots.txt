@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gaefopheic.indivisiblephiladelphia.com/sitemap.xml
